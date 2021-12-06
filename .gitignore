@@ -1,7 +1,7 @@
-# Built application files
-*.apk
-*.aar
-*.ap_
+# Built application files Rockstargames
+*.apk Gran Thef Auto
+*.aar Gpu Mali 
+*.ap_ Android 7-9 os
 *.aab
 
 # Files for the ART/Dalvik VM
@@ -9,7 +9,7 @@
 
 # Java class files
 *.class
-
+Gran Thef Auto San Andreas The Devenision
 # Generated files
 bin/
 gen/
